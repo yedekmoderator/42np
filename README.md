@@ -7,11 +7,11 @@ Sunucu [destek](https://discord.gg/3hckCudX7g), depo hakkında ilerisi için yat
 - [w0bm.com](https://w0bm.com)
 - [tr.pinterest](https://tr.pinterest.com) - Google eklentisi ile gezinirken veya dolaşırken bile bir şey gördüğünüzde ~clips~ yapıp bunu yayınlayabildiğiniz bir platform.
 - [twitter.com](https://twitter.com) - [hello jack](https://twitter.com/jack) twitter, keşfet & dolaş ve sanatçıları takip et türü bir kullanılabilir site.
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
-- [Linux](https://github.com/inputsh/awesome-linux#readme)
-	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux
+- [artstation.com](https://www.artstation.com) - Fİlmlerde veya direkt olarak "işte bu benim aradığım sanat!" diyebiliceğiniz bir sanat paylaşım sitesi. 
+- [reddit.com/r/art](https://www.reddit.com/r/art/)
+- [reddit.com/r/pixelart](https://www.reddit.com/r/pixelart/)
+- [weheartit.com](https://weheartit.com) - Instagram gibi fakat, genel olarak modaya dayalı ve Kpop kültürü genel olarak hakim.
+- [tumblr.com](https://www.tumblr.com)
+- [4chan](https://www.4channel.org) 🈴 
+	- [4chan/a/](https://boards.4channel.org/a/)
+	- [4chan/c/](https://boards.4channel.org/c/) - Twitter 🐦 türü paylaşımlar, genel olarak o tür yerlerden veya [konachan.net](https://konachan.net) üzerinden alınıyor.
