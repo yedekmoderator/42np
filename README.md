@@ -15,3 +15,5 @@ Sunucu [destek](https://discord.gg/3hckCudX7g), depo hakkında ilerisi için yat
 - [4chan](https://www.4channel.org) 🈴 
 	- [4chan/a/](https://boards.4channel.org/a/)
 	- [4chan/c/](https://boards.4channel.org/c/) - Twitter 🐦 türü paylaşımlar, genel olarak o tür yerlerden veya [konachan.net](https://konachan.net) üzerinden alınıyor.
+
+- [waifu2x.udp.jp](http://waifu2x.udp.jp) Görsel içeriklerinizi düzenlemek veya onları daha kaliteli yapmak amacı ila açılmış bir site kendisi, bir fotoğrafınızın görüntü kalitesini güzel bir şekil de yansıtmak ve yeni düzenlenmiş görüntüsü vermek için bu siteyi kullanabilirsiniz.
