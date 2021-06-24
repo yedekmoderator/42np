@@ -2,7 +2,7 @@
 
 Sunucu [destek](https://discord.gg/3hckCudX7g), depo hakkında ilerisi için yatırım, to-do list, yeni yapılabilir fikir ve kaynaklar ve ek olarak da en iyi sunucum.
 ‎
-- [deviantart.com](deviantart.com) - Marka ve Çizim konusunda, telif hakları olmadan sanatçı ile birebir konuşarak alışveriş yapabiliceğiniz bir yer.
+- [deviantart.com](https://deviantart.com) - Marka ve Çizim konusunda, telif hakları olmadan sanatçı ile birebir konuşarak alışveriş yapabiliceğiniz bir yer.
 	- [https://www.pixiv.net/en/](https://www.pixiv.net/en/) - Japon firması tarafından ortaya koyulan, genellikle anime-based türü bir tasarım sitesi.
 - [w0bm.com](https://w0bm.com)
 - [tr.pinterest](https://tr.pinterest.com) - Google eklentisi ile gezinirken veya dolaşırken bile bir şey gördüğünüzde ~clips~ yapıp bunu yayınlayabildiğiniz bir platform.
